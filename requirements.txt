@@ -6,4 +6,4 @@ duckduckgo-search
 fastapi
 uvicorn
 groq
-openair̥
+openai
